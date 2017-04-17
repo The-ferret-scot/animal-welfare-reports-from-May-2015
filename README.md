@@ -1,2 +1,2 @@
 # animal-welfare-reports-from-May-2015
-This dataset contains details of animal welfare reports made from May 2015. It was obtained via Freedom of Information Request,by the Bureau of Investigative Journalism, and used in a report by The Ferret. 
+This spreadsheet was released under freedom of information law by Food Standards Scotland, and contains redacted details of 706 breaches of animal welfare regulations between 1 May 2015 and 31 January 2017. It was analysed as part of a joint investigation by [The Ferret](https://theferret.scot) and [The Bureau of Investigative Journalism](https://www.thebureauinvestigates.com/), published on 18 April 2017.
